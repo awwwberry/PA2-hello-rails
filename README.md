@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rotten Potatoes lists movies and their rating, description, and release date. The website is hosted on Heroku and can be accessed at [
+](https://hello-rails777-4258cfaa4db4.herokuapp.com/movies)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project was written in Ruby version 3.2.2. 
